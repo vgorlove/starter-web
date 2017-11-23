@@ -2,3 +2,4 @@
 .project
 .classpath
 *.html
+log/
